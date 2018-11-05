@@ -9,7 +9,7 @@
     "author": "Sa61",
     "license": "ISC",
     "dependencies": {
-        "electron": "^2.0.5",
+        "electron": "^3.0.7",
         "knex": "^0.15.2"
     },
     "devDependencies": {
